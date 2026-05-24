@@ -4,5 +4,6 @@
 - 
 
 ### PLAN VACAS DE VERANO 2025
-✅ ~~Hacer un proyecto en html, css y java script~~ (hice 2)
+✅ ~~Hacer un proyecto en html, css y java script~~ (hice 2) 
+<br>
 ✅ ~~Estudiar física~~ (se promocionó)
