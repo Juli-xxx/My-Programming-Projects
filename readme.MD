@@ -5,6 +5,7 @@
 - Leer el libro de Arquitectura de Computadoras 
 - Meter IA en la compu y ver todos los videos de IA
 - Hacer una app con java
+- Revisar resumenes (tambien los de Notion), sacar lo que no sirva y subirlos.
 
 ---
 ### PLAN VACAS DE VERANO 2025
